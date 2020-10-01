@@ -12,7 +12,7 @@ https://github.com/ernestojimenezruiz/tabular-data-semantics-py/tree/master/Tabu
 
 
 ### Supported Packages in python to run the code
-import json
+import json <br/>
 from pprint import pprint
 import time
 from urllib import parse, request
