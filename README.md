@@ -1,10 +1,11 @@
 # Tabular Data to Knowledge Graph Matching
-For the Cell Entity annotation, Read the target file for CEA task
+### For the Cell Entity annotation
+Read the target file for CEA task
 next step call the Entity function
-
-then after call the WikidataEndpoint funtion to get the query
+Call the look up function to get the query
 ### For CTA (Cell Type Annotation) 
-First read the CEA result file and call the  WikidataEndpoint funtion to get the type
+First read the CEA result file 
+call the  WikidataEndpoint funtion to get the type
 
 ### Reference -
 https://github.com/ernestojimenezruiz/tabular-data-semantics-py/tree/master/TabularSemantics/src/kg 
