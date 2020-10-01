@@ -1,6 +1,8 @@
 # Tabular Data to Knowledge Graph Matching
 ### For the Cell Entity annotation
 Read the target file for CEA task <br/>
+Link the targets value to tables with help of Get_entity function and function_for_row <br/>
+save the result <br/>
 next step call the Entity function<br/>
 Call the look up function to get the query<br/>
 ### For CTA (Cell Type Annotation) 
